@@ -37,7 +37,7 @@
 
 ![image](https://github.com/user-attachments/assets/59e1fb12-dfb1-4715-b9e9-53317d27648c)
 
-2. Поиск ссылки по оригинальному URL `POST /links/shorten`
+2. Поиск ссылки по оригинальному URL `GET /links/search`
 
    Параметры запроса:
 
